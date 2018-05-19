@@ -5,7 +5,9 @@
 layout: home
 title: : Luiz Velho's Repository
 ---
-Home
+
+Posts
+
 <ul>
   {% for post in site.posts %}
     <li>

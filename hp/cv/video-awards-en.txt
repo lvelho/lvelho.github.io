@@ -1,0 +1,21 @@
+Pairwise Clustering Quantization (1997) Container of the Best Technical Video Award of the SIBGRAPI'97 Video Show.
+
+2D Textures - An Implicit Drama (1999) Video Show of SIBGRAPI 99 Award for Best Animation in the Technical Category, 1999
+
+Synthesis on Surfaces (2001) Container of the Award for Best Animation in the Technical Category of the Video Show of SIBGRAPI.
+
+3D Video (2004) Video Show of SIBGRAPI 2004, Best Animation Award, 2004
+
+3D shading for cartoon animation (2005) Video Show of SIBGRAPI 2005, 2nd Prize for Technical Animation, 2005
+
+Clay Girls (2007) Best Brazilian Artistic Video Award at the CGI 2007 Video Festival.
+
+3d Museum (2007) Best Brazilian Scientific Video Award at the CGI 2007 Video Festival.
+
+Relativistic Visualization (2007) Award for Best Animation in the SIBGRAPI Video Show.
+
+Dance to the Music, Play to the Motion (2010) First prize Technical Video at ACM SIGMAD Animation Festival.
+
+TuioSketch (2010) Awards of Best Technical Video (jury and public) in the Videos Show of SIBGRAPI.
+
+Real-time Terrain Modeling using CPU-GPU Coupled Computation (2011) Award for Best Technical Video in the SIBGRAPI Video Show.

@@ -1,0 +1,66 @@
+
+Graphical Objects (1997) Honorable Mention in the category of scientific work of the II Compaq Prize of Encouragement to Research and Development in Computing. Awarded by the Brazilian Academy of Sciences, Ministry of Science and Technology and UNIEMP Institute.
+
+An Animation System Based on Captured Movement (1999) Adviser of Fernando Wagner's master thesis, which received the prizes: - Second Place in the Competition of Theses and Dissertations of SBC; - Second Prize Award in the VI CLEI-UNESCO Contest on Masters Thesis.
+
+Visualization of Three-Dimensional Objects Based on Projective Interpolation (2003) Advisor of the final work of Aldo Nogueira and Elaine Prata at UERJ, which received the Second Place in the Contest of Scientific Initiation Works, SIBGRAPI.- SBC.
+
+(2003) Adviser of Adelailson Peixoto's doctoral thesis at PUC-RJ, which received the Second Place in the Thesis and Dissertations Competition of SBM - Brazilian Society of Computing.
+
+Approximating Parametric Curves with Strip Trees using Affine Arithmetic (2002) Best technical article in SIBGRAPI - Conference on Graphics, Patterns and Images.
+
+Fast Stellar Mesh Simplification (2003) Best technical article at SIBGRAPI - Conference on Graphics, Patterns and Images.
+
+Moving Least Squares Multiresolution Surface Approximation (2003) Best technical article at SIBGRAPI - Conference on Graphics, Patterns and Images.
+
+Adaptive Deformable Models (2004) Best technical article at SIBGRAPI - Conference on Graphics, Patterns and Images.
+
+Geodesic Paths on Triangular Meshes (2004) Best technical article at SIBGRAPI - Conference on Graphics, Patterns and Images.
+
+Multi-Resolution 3D Triangulations for Non-Manifold Heterogeneous Objects (2005) Co-supervisor of Ricardo Guerra Marroquim whose work received the awards: - Petrobras Technology Prize, 2005 - Best Master's Degree Work WTD - SIBGRAPI 2005
+
+Shading via Intrinsic Normal Information for Cel Animation (2005) Best technical article at SIBGRAPI - Conference on Graphics, Patterns and Images.
+
+GEncode: Geometry-driven compression for general meshes (2005) Best technical article in SIBGRAPI - Conference on Graphics, Patterns and Images.
+
+Actively Illuminated Objects using Graph-Cuts (2006) Best technical article in SIBGRAPI - Conference on Graphics, Patterns and Images.
+
+Polygonization of volumetric reconstructions from silhouettes (2006) Best technical article in SIBGRAPI - Conference on Graphics, Patterns and Images.
+
+Hardware-Assisted CSG Rendering (2006) Advisor of the work of Fabiano Romeiro, Top Finalist - ACM Student Research Competition - SIGGRAPH.
+
+Object Reconstruction with Photometric Stereo (2006) Best Poster Award at SIBGRAPI - Conference on Graphics, Patterns and Images.
+
+Video Calibration for Augmented Reality (2007) Advisor of the dissertation of Bruno Madeira that received the award of 2nd. Place Master in the Competition of Thesis and Dissertations of the Brazilian Society of Computing - SBC.
+
+Geodesic Bezier Curves: a Tool for Modeling on Triangulations (2007) Best technical article at SIBGRAPI - Conference on Graphics, Patterns and Images.
+
+PCA-based 3D Face Photography (2008) Best technical article at SIBGRAPI - Conference on Graphics, Patterns and Images.
+
+Hybrid Scheme for Illumination Maps The author of Aldo Zang's dissertation, which received the awards: - Best Master's Degree in SIBGRAPI (2009); - Second Prize M.Sc. Dissertation, CLEI Unesco. (2010)
+
+Hermite Interpolation of Implicit Surfaces with Radial Basis Functions (2009) Best technical article in SIBGRAPI - Conference on Graphics, Patterns and Images.
+
+Pandeiro Funk (2009) Advisor to Sergio Krakowski classified as "Finalist" at the ACM Student Research Competition, SIGGRAPH.
+
+Guitar Leading Band (2010) Advisor to Marcelo Cicconet classified as "Semi-Finalist" at the ACM Student Research Competition, SIGGRAPH.
+
+ChoreoGraphics: An Authoring Environment for Dance Shows (2010) Advisor to Adriana Schulz that contemplated with the FAPERJ Note 10 Grant.
+
+Real-time Terrain Modeling using CPU-GPU Coupled Computation (2011) Advisor to Adrien Bernhardt classified as "Semi-Finalist" at the ACM Student Research Competition, SIGGRAPH.
+
+Filter Based Deghosting for Exposure Fusion Video (2011) Advisor of Alexandre Chapiro classified as "Finalist" at the ACM Student Research Competition, SIGGRAPH.
+
+Base Mesh Construction using Global Parametrization (2012) Francisco Ganacim advisor classified as "Semi-Finalist" at the ACM Student Research Competition, SIGGRAPH.
+
+Production Framework for Full Panoramic Scenes with Photorealistic A.R. (2012) Best Paper Award at CLEI-UNESCO.
+
+Virtual Table-Teleporter (2012) Award for best technical article in the SRV - Symposium of Virtual Reality, SBC.
+
+Realistic Shadows on Mobile Augmented Reality (2012) Award for best technical article at SRV - Symposium of Virtual Reality, SBC.
+
+A Sketch-Based Modeling Framework Based on Adaptive Meshes (2014) Best technical article in SIBGRAPI - Conference on Graphics, Patterns and Images.
+
+Geometry independent game encapsulation for non-Euclidean geometries (2015) Honorable Mention in SIPGRAPI's WIP - Work In-Progress.
+
+Best Computer Graphics / Visualization M.Sc. Dissertation Award (2017), Eduardo Vera Sousa, Luiz Velho (co-advisor), and Leandro A. F. Fernandes (advisor)

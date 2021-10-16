@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle="People of Hong Kong"
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="false"
+	showExpandButton="true"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="true"
+>
+
+	<image imageURL="images/DSC_3892.jpg" thumbURL="thumbs/DSC_3892.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3888.jpg" thumbURL="thumbs/DSC_3888.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3884.jpg" thumbURL="thumbs/DSC_3884.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3887.jpg" thumbURL="thumbs/DSC_3887.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3896.jpg" thumbURL="thumbs/DSC_3896.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3897.jpg" thumbURL="thumbs/DSC_3897.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3901.jpg" thumbURL="thumbs/DSC_3901.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3903.jpg" thumbURL="thumbs/DSC_3903.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3905.jpg" thumbURL="thumbs/DSC_3905.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3907.jpg" thumbURL="thumbs/DSC_3907.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3910.jpg" thumbURL="thumbs/DSC_3910.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3915.jpg" thumbURL="thumbs/DSC_3915.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3923.jpg" thumbURL="thumbs/DSC_3923.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3931.jpg" thumbURL="thumbs/DSC_3931.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3937.jpg" thumbURL="thumbs/DSC_3937.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3940.jpg" thumbURL="thumbs/DSC_3940.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3945.jpg" thumbURL="thumbs/DSC_3945.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3946.jpg" thumbURL="thumbs/DSC_3946.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3951.jpg" thumbURL="thumbs/DSC_3951.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3952.jpg" thumbURL="thumbs/DSC_3952.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3956.jpg" thumbURL="thumbs/DSC_3956.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3961.jpg" thumbURL="thumbs/DSC_3961.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3962.jpg" thumbURL="thumbs/DSC_3962.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3967.jpg" thumbURL="thumbs/DSC_3967.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3968.jpg" thumbURL="thumbs/DSC_3968.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3970.jpg" thumbURL="thumbs/DSC_3970.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3973.jpg" thumbURL="thumbs/DSC_3973.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3976.jpg" thumbURL="thumbs/DSC_3976.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3986.jpg" thumbURL="thumbs/DSC_3986.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3995.jpg" thumbURL="thumbs/DSC_3995.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3996.jpg" thumbURL="thumbs/DSC_3996.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3998.jpg" thumbURL="thumbs/DSC_3998.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_3999.jpg" thumbURL="thumbs/DSC_3999.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_4004.jpg" thumbURL="thumbs/DSC_4004.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_4010.jpg" thumbURL="thumbs/DSC_4010.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_4012.jpg" thumbURL="thumbs/DSC_4012.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_4014.jpg" thumbURL="thumbs/DSC_4014.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_4018.jpg" thumbURL="thumbs/DSC_4018.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_4020.jpg" thumbURL="thumbs/DSC_4020.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_4022.jpg" thumbURL="thumbs/DSC_4022.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_4025.jpg" thumbURL="thumbs/DSC_4025.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_4026.jpg" thumbURL="thumbs/DSC_4026.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+
+</juiceboxgallery>

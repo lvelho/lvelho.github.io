@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle="Floripa 2019"
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="true"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+>
+
+	<image imageURL="images/IMG_5752.jpg" thumbURL="thumbs/IMG_5752.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_5750.jpg" thumbURL="thumbs/IMG_5750.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_5751.jpg" thumbURL="thumbs/IMG_5751.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_5772.jpg" thumbURL="thumbs/IMG_5772.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_5754.jpg" thumbURL="thumbs/IMG_5754.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_5764.jpg" thumbURL="thumbs/IMG_5764.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_5767.jpg" thumbURL="thumbs/IMG_5767.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_5761.jpg" thumbURL="thumbs/IMG_5761.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_5758.jpg" thumbURL="thumbs/IMG_5758.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_5773.jpg" thumbURL="thumbs/IMG_5773.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_5775.jpg" thumbURL="thumbs/IMG_5775.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_5778.jpg" thumbURL="thumbs/IMG_5778.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_5782.jpg" thumbURL="thumbs/IMG_5782.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_5783.jpg" thumbURL="thumbs/IMG_5783.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_5780.jpg" thumbURL="thumbs/IMG_5780.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_5779.jpg" thumbURL="thumbs/IMG_5779.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+
+</juiceboxgallery>

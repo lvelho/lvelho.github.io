@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle="Counting Photons"
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="false"
+	showExpandButton="true"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="true"
+>
+
+	<image imageURL="images/DSC_2263.jpg" thumbURL="thumbs/DSC_2263.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_2262.jpg" thumbURL="thumbs/DSC_2262.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_2261.jpg" thumbURL="thumbs/DSC_2261.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_2259.jpg" thumbURL="thumbs/DSC_2259.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_2258.jpg" thumbURL="thumbs/DSC_2258.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_2257.jpg" thumbURL="thumbs/DSC_2257.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_2256.jpg" thumbURL="thumbs/DSC_2256.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_2255.jpg" thumbURL="thumbs/DSC_2255.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_2254.jpg" thumbURL="thumbs/DSC_2254.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_2253.jpg" thumbURL="thumbs/DSC_2253.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_2252.jpg" thumbURL="thumbs/DSC_2252.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_2250.jpg" thumbURL="thumbs/DSC_2250.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/DSC_2249.jpg" thumbURL="thumbs/DSC_2249.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+
+</juiceboxgallery>

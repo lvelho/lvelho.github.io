@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+				galleryTitle="Central Park 2015"
+					useFullscreenExpand="true"
+					showOpenButton="false"
+					thumbFrameColor="rgba(255,255,255,0.25)"
+		
+>
+
+			<image imageURL="images/DSC_4446.jpg" thumbURL="thumbs/DSC_4446.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/DSC_4488.jpg" thumbURL="thumbs/DSC_4488.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/DSC_4491.jpg" thumbURL="thumbs/DSC_4491.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/DSC_4503.jpg" thumbURL="thumbs/DSC_4503.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/DSC_4501.jpg" thumbURL="thumbs/DSC_4501.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/DSC_4509.jpg" thumbURL="thumbs/DSC_4509.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/DSC_4508.jpg" thumbURL="thumbs/DSC_4508.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/DSC_4606.jpg" thumbURL="thumbs/DSC_4606.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/DSC_4530.jpg" thumbURL="thumbs/DSC_4530.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/DSC_4529.jpg" thumbURL="thumbs/DSC_4529.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/DSC_4621.jpg" thumbURL="thumbs/DSC_4621.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/DSC_4671.jpg" thumbURL="thumbs/DSC_4671.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/DSC_4663.jpg" thumbURL="thumbs/DSC_4663.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/DSC_4701.jpg" thumbURL="thumbs/DSC_4701.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/DSC_4890.jpg" thumbURL="thumbs/DSC_4890.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/DSC_4738.jpg" thumbURL="thumbs/DSC_4738.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+	
+</juiceboxgallery>

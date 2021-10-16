@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle="VR/MR Workshop"
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="true"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+>
+
+	<image imageURL="images/IMG_4026.jpg" thumbURL="thumbs/IMG_4026.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_3982.jpg" thumbURL="thumbs/IMG_3982.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_4019.jpg" thumbURL="thumbs/IMG_4019.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_4020.jpg" thumbURL="thumbs/IMG_4020.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_4018.jpg" thumbURL="thumbs/IMG_4018.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_4016.jpg" thumbURL="thumbs/IMG_4016.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_4049.jpg" thumbURL="thumbs/IMG_4049.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_4047.jpg" thumbURL="thumbs/IMG_4047.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_4053.jpg" thumbURL="thumbs/IMG_4053.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+
+</juiceboxgallery>

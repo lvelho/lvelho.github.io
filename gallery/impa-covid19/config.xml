@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle="IMPA no Confinamento: Conjunto Vazio"
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="true"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="true"
+>
+
+	<image imageURL="images/IMG_0903.jpg" thumbURL="thumbs/IMG_0903.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_0887.jpg" thumbURL="thumbs/IMG_0887.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_0889.jpg" thumbURL="thumbs/IMG_0889.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_0890.jpg" thumbURL="thumbs/IMG_0890.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_0901.jpg" thumbURL="thumbs/IMG_0901.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_0905.jpg" thumbURL="thumbs/IMG_0905.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/IMG_0906.jpg" thumbURL="thumbs/IMG_0906.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+
+</juiceboxgallery>

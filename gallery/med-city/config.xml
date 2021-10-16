@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juiceboxgallery
+				galleryTitle="Hospital Vitória - Americas Medical City"
+		>
+			<image imageURL="images/images.jpg" thumbURL="thumbs/images.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/hospital-vitoria-1.jpg" thumbURL="thumbs/hospital-vitoria-1.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/Screen_Shot_2021-06-10_at_22.54.56.jpg" thumbURL="thumbs/Screen_Shot_2021-06-10_at_22.54.56.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/Screen_Shot_2021-06-10_at_22.55.40.jpg" thumbURL="thumbs/Screen_Shot_2021-06-10_at_22.55.40.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/B2V3jz-IUAE4WjZ.jpg" thumbURL="thumbs/B2V3jz-IUAE4WjZ.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/Unknown.jpg" thumbURL="thumbs/Unknown.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+	</juiceboxgallery>

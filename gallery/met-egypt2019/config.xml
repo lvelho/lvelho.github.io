@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juiceboxgallery
+				galleryTitle="MET - Egypt Snapshots"
+					useFullscreenExpand="true"
+					showThumbsButton="false"
+		>
+			<image imageURL="images/IMG_0463.jpg" thumbURL="thumbs/IMG_0463.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/IMG_0460.jpg" thumbURL="thumbs/IMG_0460.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/IMG_0459.jpg" thumbURL="thumbs/IMG_0459.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+			<image imageURL="images/IMG_0458.jpg" thumbURL="thumbs/IMG_0458.jpg" linkURL="" linkTarget="_blank">
+			<title><![CDATA[]]></title>
+			<caption><![CDATA[]]></caption>
+		</image>
+	</juiceboxgallery>
